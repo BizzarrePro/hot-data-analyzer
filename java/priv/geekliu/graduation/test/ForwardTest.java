@@ -27,5 +27,7 @@ public class ForwardTest {
 //		List<Data> result = ac.classify(new File("J:\\data\\part1.blkparse"), ReadMode.READ_IN_MEMORY_DIRECTLY);
 		for(Data d : result)
 			System.out.println(d);
+
+		System.out.println("Another Hello World");
 	}
 }
